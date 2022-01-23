@@ -8,8 +8,8 @@ You would need node/npm installed on your system. Your system would also need su
 
 Once node is installed you can check using commands:
 
-node -v
-npm -v
+- node -v
+- npm -v
 
 This repo and functionality has been valiadated using node V12.0.0 and npm 6.5.0
 
