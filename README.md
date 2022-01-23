@@ -21,3 +21,10 @@ We have defined scenarios within 2 different feature file and added reference to
 
 - npm run test1
 - npm run test2
+
+
+## Resources
+
+- https://www.npmjs.com/package/chai
+- https://www.npmjs.com/package/@cucumber/cucumber
+- https://www.npmjs.com/package/selenium-webdriver
