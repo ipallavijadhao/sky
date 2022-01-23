@@ -1,0 +1,22 @@
+{
+  "name": "sky-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test1": "node_modules/.bin/cucumber-js -f @cucumber/pretty-formatter features/sky-1.feature",
+    "test2": "node_modules/.bin/cucumber-js -f @cucumber/pretty-formatter features/sky-2.feature"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^7.2.1",
+    "chromedriver": "^97.0.0",
+    "selenium-webdriver": "^3.6.0"
+  },
+  "devDependencies": {
+    "@cucumber/pretty-formatter": "^1.0.0-alpha.1",
+    "chai": "^4.3.4"
+  }
+}
