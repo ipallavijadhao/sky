@@ -19,5 +19,5 @@ Once node and npm setup is validated, please checkout this repository and naviga
 
 We have defined scenarios within 2 different feature file and added reference to them as test1 and test2 within package.json. Based on which scneario you want to validate you can execute following command,
 
-npm run test1
-npm run test2
+- npm run test1
+- npm run test2
