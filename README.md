@@ -22,6 +22,13 @@ We have defined scenarios within 2 different feature file and added reference to
 - npm run test1
 - npm run test2
 
+## Possible improvements
+
+- Refactor and convert to page object model
+- mocha integration
+- reporting may be using https://www.npmjs.com/package/cucumber-html-reporter
+- support for parallel run may be using https://www.npmjs.com/package/cucumberjs-parallel
+
 
 ## Resources
 
